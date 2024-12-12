@@ -13,7 +13,7 @@
 
 
 # 🖥부착형 창문 자동 제어기 설계도
-![image](https://github.com/user-attachments/assets/a31aa24c-f7ed-40c3-992d-b2ce17301b1e)
+![image](https://github.com/user-attachments/assets/30109fa0-8deb-482e-af65-f9b0654033c4)
 
 
 <br/>
