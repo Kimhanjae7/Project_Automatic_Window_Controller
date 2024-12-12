@@ -1,1 +1,3 @@
-# Project_Embedded_Software
+# Embedded Software Project
+
+# Automatic Window Controller
